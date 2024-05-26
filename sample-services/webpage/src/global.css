@@ -1,0 +1,29 @@
+:root {
+    --background-color: #1A1A1A;
+    --text-color: #E0E0E0;
+    --link-color: #D17B49;
+    --nav-background-color: #324241;
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+a,
+.page-link {
+    color: var(--link-color) !important;
+}
+
+.main-nav-bar {
+    background-color: var(--nav-background-color);
+    padding: 10px;
+}
+
+.swap-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
