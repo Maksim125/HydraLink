@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="readme/logo-3.png" alt="HydraLink Logo" style="width:100px; height:auto;">
+  <img src="readme/logo-4.png" alt="HydraLink Logo" style="width:100px; height:auto;">
   <h1 style = "margin-top:0;">HydraLink</h1>
 </div>
 
